@@ -8,6 +8,13 @@
       "when": 1752000085885,
       "tag": "0000_violet_northstar",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1752059897312,
+      "tag": "0001_clever_korg",
+      "breakpoints": true
     }
   ]
 }
